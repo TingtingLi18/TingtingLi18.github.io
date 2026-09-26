@@ -17,3 +17,5 @@ body{font-family:"Times New Roman",Times,serif}
 .brand,.nav a,.menu-btn,h1,h2,h3,.eyebrow,.kicker,.chip,.button,.contact-btn,.tag,.stat strong,.stat span,.news-item time,.pub .year,.timeline-item time,.scholar-metrics strong,.scholar-metrics span{font-family:Georgia,"Times New Roman",serif}
 .brand{letter-spacing:.01em}
 h1,.section h2,.page-hero h1{letter-spacing:-.025em}
+
+.training-strip{margin-top:2rem;padding:1.4rem 1.6rem;border-top:1px solid #e6e1df;border-bottom:1px solid #e6e1df;max-width:1200px}.training-strip p:last-child{margin:.35rem 0 0;max-width:1000px;line-height:1.75;color:#4f596b}.training-strip strong{color:#182236}
